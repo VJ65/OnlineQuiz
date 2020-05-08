@@ -18,6 +18,6 @@ QuizBee is an android based application, and enables the user to undertake a ser
 	<img src="/screenshot/pic3.png" width = "200" height= "350" hspace=40>
 </p>
 
-If you have any queries or suggestions you can mail me: vkasojhaa@gmail.com
+If you have any queries or suggestions you can mail me: wajeehulhassan82@gmail.com
 
 You are welcome to suggest any changes, just send a pull request.
